@@ -1,0 +1,71 @@
+<svg viewBox="0 0 351 198.02" xmlns:xlink="http://www.w3.org/1999/xlink" width="351" height="198" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(1,1)">
+        <path transform="translate(26.6,0)" d="M8.3,0L287.4,0C292,0,295.8,3.4,295.8,7.6L295.8,175.9C295.8,180.1,292,183.6,287.4,183.6L8.3,183.6C3.7,183.6,0,180.1,0,175.9L0,7.6C0,3.4,3.7,0,8.3,0z" fill="#000000" id="shape1"/>
+        <path transform="translate(39.67,12.5)" d="M0,0L269.7,0L269.7,158.1L0,158.1L0,0z" fill="#ffffff" stroke="#ffffff" id="shape2"/>
+        <path transform="translate(0,191.54)" d="M0,0C0,4.5,7.6,4.5,7.6,4.5L342.5,4.5C342.5,4.5,349,4.7,349,0C349.5,.2,0,.3,0,0z" fill="#000000" id="shape3"/>
+        <path transform="translate(0.35,183.1)" d="M1.2,0L347.2,0C347.8,0,348.3,.5,348.3,1.2L348.3,8.5L0,8.5L0,1.2C0,.5,.5,0,1.2,0z" fill="#3e3938" stroke="#3e3938" id="shape4"/>
+        <path transform="translate(137.42,183.1)" d="M0,0L74.2,0L74.2,5.8L0,5.8L0,0z" fill="#888889" stroke="#888889" id="shape5"/>
+        <path transform="translate(39.67,12.5)" d="M0,0L269.7,0L269.7,10.8L0,10.8L0,0z" fill="#0168a5" stroke="#0168a5" id="shape6"/>
+        <g transform="translate(196.55,47.26)">
+            <path transform="translate(41.48,43.86)" d="M1.1,0L5,2.9L5.5,5.2L0,1L1.1,0z" fill="#ffc000" stroke="#ffbf28" stroke-width="0.25" id="shape7"/>
+            <path transform="translate(38.19,48.04)" d="M1.4,0L11.3,6.9L11,9.1L0,1.4L1.4,0z" fill="#e30003" stroke="#ff1418" stroke-width="0.25" id="shape8"/>
+            <path transform="translate(33.51,53.63)" d="M1.5,-0C1.5,.3,14.5,9.8,14.5,9.8L12.6,11.4L-0,1.6L1.5,-0z" fill="#5d9e2d" stroke="#2671a5" stroke-width="0.25" id="shape9"/>
+            <path transform="translate(27.86,60.46)" d="M1.5,0L12.7,9.2L10.8,10.7L0,1.5L1.5,0z" fill="#006fbd" stroke="#2671a5" stroke-width="0.25" id="shape10"/>
+            <path transform="translate(22.21,67.78)" d="M1.8,0L7.9,5.6L5.1,6L0,1.4L1.8,0z" fill="#ffc000" stroke="#ffbf28" stroke-width="0.25" id="shape11"/>
+            <path transform="translate(46.07,2.46)" d="M12.7,7.9L1.6,0L0,1.6L11.9,9.7L12.7,7.9z" fill="#e30003" stroke="#ff1418" stroke-width="0.25" id="shape12"/>
+            <path transform="translate(40.83,10.42)" d="M.8,0L15.2,6.7L14.4,8.7L0,2.1L.8,0z" fill="#ffc000" stroke="#ffbf28" stroke-width="0.25" id="shape13"/>
+            <path transform="translate(39.01,18.52)" d="M0,0L13.7,5.4L12.5,7.3L0,2.7L0,0z" fill="#006fbd" stroke="#2671a5" stroke-width="0.25" id="shape14"/>
+            <path transform="translate(39.77,28.73)" d="M1.1,2.7L9.8,4.8L10.4,2.8L0,0L1.1,2.7z" fill="#5d9e2d" stroke="#00af54" stroke-width="0.25" id="shape15"/>
+            <path transform="translate(7.59,76.3)" d="M4.3,0C5.6,0,8.5,.6,8.5,.6L8.8,2.4L0,.8L4.3,0z" fill="#ffc000" stroke="#ffbf28" stroke-width="0.25" id="shape16"/>
+            <path transform="translate(1.66,77.95)" d="M0,0L11.5,3.4L12.2,6L0,2.1L0,0z" fill="#006fbd" stroke="#2671a5" stroke-width="0.25" id="shape17"/>
+            <path transform="translate(1.66,82.72)" d="M0,0L11.4,5.7L12.4,9L.5,2.4L0,0z" fill="#5d9e2d" stroke="#2671a5" stroke-width="0.25" id="shape18"/>
+            <path transform="translate(-0.01,-0.01)" d="M49,0C38.2,9.1,37.9,19.4,38.7,25.5C41.2,42.9,52.3,54.6,47,63.1C42,71.1,31,72.7,3.9,76.2C-4.4,77.3,3,90.3,3,90.3L5.2,88.8C5.2,88.8,-0.5,79.6,4.3,78C8.6,76.5,43.5,76.3,48.8,63.8C54.1,51.6,41.8,40.6,40.4,25.2C38.9,8.8,50.3,1.7,50.3,1.7L49,0z" fill="#2671a5" stroke="#2671a5" stroke-width="0.25" id="shape19"/>
+            <path transform="matrix(-1,0,0,1,75.9,16.6)" d="M2.9,-0.5C5.6,13.3,14.4,18.7,20.2,21C36.7,27.5,52.5,23.7,57.3,32.5C61.9,40.8,57.8,51,47.5,76.1C44.4,83.7,56.1,82.2,56.1,82.2L55.5,80.3C55.5,80.3,48.3,81.6,49.3,76.6C50.1,72.1,67.2,42.1,58.9,31.3C50.7,20.8,35,25.9,20.8,19.4C5.6,12.6,5,-0.8,5,-0.8L2.9,-0.5z" fill="#2671a5" stroke="#2671a5" stroke-width="0.25" id="shape20"/>
+        </g>
+        <g transform="translate(76.59,46.83)">
+            <g transform="translate(6.44,6.44)">
+                <path transform="translate(28.52,26.16)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape21"/>
+                <path transform="translate(28.36,62.8)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape22"/>
+                <path transform="matrix(0.5,-0.87,0.87,0.5,15.2,41.1)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape23"/>
+                <path transform="matrix(-0.5,-0.87,-0.87,0.5,54.4,41.1)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape24"/>
+                <path transform="matrix(-0.5,0.87,-0.87,-0.5,54.4,49.4)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape25"/>
+                <path transform="matrix(0.5,0.87,0.87,-0.5,15.1,48.9)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape26"/>
+                <path transform="translate(0,44.52)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape27"/>
+                <path transform="translate(4.04,75.49)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape28"/>
+                <path transform="translate(54.39,75.36)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape29"/>
+                <path transform="translate(56.43,43.7)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape30"/>
+                <path transform="matrix(0.5,-0.87,0.87,0.5,15.2,75.9)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape31"/>
+                <path transform="matrix(0.5,-0.87,0.87,0.5,46.3,24.7)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape32"/>
+                <path transform="matrix(0.5,-0.87,0.87,0.5,17.6,10.9)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape33"/>
+                <path transform="translate(2.18,12.46)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape34"/>
+                <path transform="matrix(-0.5,-0.87,-0.87,0.5,24.5,25.2)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape35"/>
+                <path transform="matrix(-0.5,-0.87,-0.87,0.5,80,59)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape36"/>
+                <path transform="matrix(-0.5,-0.87,-0.87,0.5,52.4,75.9)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape37"/>
+                <path transform="matrix(-0.5,-0.87,-0.87,0.5,23.8,87.7)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape38"/>
+                <path transform="matrix(0.5,-0.87,0.87,0.5,72.3,41.1)" d="M0,0L12.6,0L12.6,1.6L0,1.6L0,0z" fill="#4f8da2" stroke="#4f8da2" id="shape39"/>
+            </g>
+            <g>
+                <path transform="translate(2.24,77.36)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape40"/>
+                <path transform="translate(17.38,77.5)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape41"/>
+                <path transform="translate(24.72,89.92)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape42"/>
+                <path transform="translate(25.54,64.81)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape43"/>
+                <path transform="translate(46.52,64.81)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape44"/>
+                <path transform="translate(53.36,78.32)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape45"/>
+                <path transform="translate(69.16,78.32)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape46"/>
+                <path transform="translate(80.78,62.36)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape47"/>
+                <path transform="translate(72.05,46.53)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape48"/>
+                <path transform="translate(56.62,46.53)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape49"/>
+                <path transform="translate(14.92,46.53)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape50"/>
+                <path transform="translate(-0,46.53)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape51"/>
+                <path transform="translate(25.54,28.66)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape52"/>
+                <path transform="translate(46.52,28.66)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape53"/>
+                <path transform="translate(80.66,30.57)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape54"/>
+                <path transform="translate(54.57,15.57)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape55"/>
+                <path transform="translate(18.45,14.88)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape56"/>
+                <path transform="translate(2.24,14.48)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape57"/>
+                <path transform="translate(27.07,0.02)" d="M0,5.2C0,2.3,2.4,-0,5.3,-0C8.2,-0,10.5,2.3,10.5,5.2C10.5,8.1,8.2,10.5,5.3,10.5C2.4,10.5,0,8.1,0,5.2z" fill="#f06b6c" stroke="#f16b6c" id="shape58"/>
+            </g>
+        </g>
+    </g>
+</svg>
